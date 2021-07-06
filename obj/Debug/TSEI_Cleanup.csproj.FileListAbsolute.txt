@@ -1,0 +1,10 @@
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\bin\Debug\VMS.TPS.Common.Model.API.dll
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\bin\Debug\VMS.TPS.Common.Model.Types.dll
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\obj\Debug\TSEI_Cleanup.csprojAssemblyReference.cache
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\obj\Debug\TSEI_Cleanup.csproj.CoreCompileInputs.cache
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\obj\Debug\TSEI_Cleanup.csproj.CopyComplete
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\bin\Debug\TSEI_Cleanup.esapi.dll.config
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\bin\Debug\TSEI_Cleanup.esapi.dll
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\bin\Debug\TSEI_Cleanup.esapi.pdb
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\obj\Debug\TSEI_Cleanup.esapi.dll
+C:\prog\TSEI_Cleanup\TSEI_Cleanup\obj\Debug\TSEI_Cleanup.esapi.pdb
